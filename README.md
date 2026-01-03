@@ -14,7 +14,7 @@ A versão oficial deste projeto está enviando as mensagens em https://t.me/Repo
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/gilmartaj/SuperTD
+   git clone https://github.com/gilmartaj/super-td
    cd super-td
    ```
 
