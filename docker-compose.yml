@@ -1,0 +1,10 @@
+services:
+  super-td:
+    build: .
+    container_name: super-td
+    restart: always
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+      - TZ=America/Bahia
