@@ -37,7 +37,8 @@ A versão oficial deste projeto está enviando as mensagens em https://t.me/Repo
 4. **Execute o arquivo main.py:**
 
     ```bash
-    python3 main.py```
+    python3 main.py
+    ```
 
 * **Docker:**
 
