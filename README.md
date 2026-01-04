@@ -42,8 +42,8 @@ A versão oficial deste projeto está enviando as mensagens em https://t.me/Repo
 
 * **Docker:**
 
-    Caso você esteja acostumado a usar Docker, o projeto já está preparado para rodar como container, basta substituir o __passo 4__ pela construção e execução do container:
+    Caso você esteja acostumado a usar Docker/Compose, o projeto já está preparado para rodar como container, basta substituir o __passo 4__ pela construção e execução do container:
 
     ```bash
-    docker-compose up -d --build
+    docker compose up -d --build
     ```
